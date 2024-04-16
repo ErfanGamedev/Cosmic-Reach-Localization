@@ -59,6 +59,9 @@
 == Portuguese Localization ==
 * DarkenLM
 
+== Persian Localization ==
+* DevErfun
+
 == Dutch Localization ==
 * Lelebees
 * Luke-Kr
